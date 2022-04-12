@@ -45,6 +45,6 @@
 
 <p>
 <!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/devanshu-653796217"><img src="https://img.shields.io/badge/-techyaura-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:devanshuchauhan1603@gmail.com"><img src="https://img.shields.io/badge/-techyaura@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/devanshu-653796217"><img src="https://img.shields.io/badge/-devanshu-653796217?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:devanshuchauhan1603@gmail.com"><img src="https://img.shields.io/badge/-devanshuchauhan1603@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
